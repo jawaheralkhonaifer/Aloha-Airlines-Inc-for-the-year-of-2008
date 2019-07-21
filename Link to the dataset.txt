@@ -1,0 +1,6 @@
+Go to this url:
+http://stat-computing.org/dataexpo/2009/supplemental-data.html
+
+Load the dataset of 2008.
+
+Enjoy :)
