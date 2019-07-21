@@ -45,8 +45,6 @@ exploring the data in general.
 <li>LateAircraftDelay	in minutes</li>
 </ul>
 
-<h2> Aloha Airlines Inc 2008</h2>
-
 <h3>Assesting the data</h3>
 
 <h7>
