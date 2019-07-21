@@ -1,4 +1,4 @@
-# Aloha-Airlines-Inc-for-the-year-of-2008
+# Aloha Airlines Inc for the year of 2008
 Data visualization 
 <h2>Flights</h2>
 
@@ -90,7 +90,4 @@ There are few questions need to be answered
 6-Which are the best places to travel with?
 </h7>
 
-<h7>
-The final observation is that
 
-</h7>
